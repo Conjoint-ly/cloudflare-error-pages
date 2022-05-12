@@ -8,4 +8,6 @@ This repository contains [Cloudflare custom error pages](https://support.cloudfl
 | Country Challenge | Challenge page presented to visitors from blocked countries. | https://cf.blackbullmarkets.com/country_challenge.html |
 | WAF Block | Presented to visitors when they trigger a Web Application Firewall rule. | https://cf.blackbullmarkets.com/waf_block.html |
 | WAF Challenge | Presented to visitors when they trigger a Web Application Firewall rule. | https://cf.blackbullmarkets.com/waf_challenge.html |
+|---|---|---|
+
 Thanks to @joakimhellum
