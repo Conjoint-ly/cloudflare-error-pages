@@ -18,12 +18,15 @@
             line-height: 1.5;
         }
 
+        /* Container in the centre of the page with margins on left and right */
         .container {
-            text-align: center;
-            position: absolute;
+            text-align: left;
             top: 50%;
-            transform: translateY(-50%);
-            width: 95%;
+            margin-right: auto;
+            margin-left: auto;
+            width: 800px;
+            max-width: 90%;
+            padding-top: 2em;
         }
 
         small {
@@ -36,18 +39,12 @@
             text-decoration: underline;
         }
 
-        .cf-error-details {
-            text-align: left;
-            max-width: 800px;
-            display: inline-flex;
-            flex-direction: column;
-        }
     </style>
 </head>
 
 <body>
 <div class="container">
-    <img src="logo.png" style="max-width: 150px;">
+    <p style="text-align: center"><img src="logo.png" style="max-width: 150px;"></p>
 
     <h1>Sorry, there appears to be an error on Conjointly</h1>
 
