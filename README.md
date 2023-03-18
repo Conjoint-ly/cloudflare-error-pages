@@ -4,10 +4,10 @@ This repository contains [Cloudflare custom error pages](https://support.cloudfl
 
 | Type | Description | URL |
 |---|---|---|
-| Basic Security Challenge | Basic security challenge page presented to visitors. | https://cf.blackbullmarkets.com/basic_challenge.html |
-| Country Challenge | Challenge page presented to visitors from blocked countries. | https://cf.blackbullmarkets.com/country_challenge.html |
-| WAF Block | Presented to visitors when they trigger a Web Application Firewall rule. | https://cf.blackbullmarkets.com/waf_block.html |
-| WAF Challenge | Presented to visitors when they trigger a Web Application Firewall rule. | https://cf.blackbullmarkets.com/waf_challenge.html |
+| Basic Security Challenge | Basic security challenge page presented to visitors. | https://conjoint-ly.github.io/cloudflare-error-pages/basic_challenge.html |
+| Country Challenge | Challenge page presented to visitors from blocked countries. | https://conjoint-ly.github.io/cloudflare-error-pages/country_challenge.html |
+| WAF Block | Presented to visitors when they trigger a Web Application Firewall rule. | https://conjoint-ly.github.io/cloudflare-error-pages/waf_block.html |
+| WAF Challenge | Presented to visitors when they trigger a Web Application Firewall rule. | https://conjoint-ly.github.io/cloudflare-error-pages/waf_challenge.html |
 
 
 Thanks to [joakimhellum](https://github.com/joakimhellum), [k-reyes-bbm](https://github.com/k-reyes-bbm/cloudflare-error-pages).
