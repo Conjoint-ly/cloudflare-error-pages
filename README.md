@@ -10,4 +10,4 @@ This repository contains [Cloudflare custom error pages](https://support.cloudfl
 | WAF Challenge | Presented to visitors when they trigger a Web Application Firewall rule. | https://cf.blackbullmarkets.com/waf_challenge.html |
 
 
-Thanks to @joakimhellum
+Thanks to [joakimhellum](https://github.com/joakimhellum), [k-reyes-bbm](https://github.com/k-reyes-bbm/cloudflare-error-pages).

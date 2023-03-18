@@ -266,8 +266,8 @@
         }
 
         body {
-            font-family: Gordita, Helvetica Neue, Helvetica, Arial, sans-serif;
-            color: #8a8c91;
+            font-family: Arial, sans-serif;
+            color: white;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             font-size: calc(15px + (100vw - 320px)/ 880)
