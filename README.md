@@ -8,10 +8,8 @@ This repository contains [Cloudflare custom error pages](https://developers.clou
 | WAF Block | https://conjoint-ly.github.io/cloudflare-error-pages/waf_block.html         |
 | 500 Class Errors | https://conjoint-ly.github.io/cloudflare-error-pages/error-500.html         |
 | 1000 Class Errors | https://conjoint-ly.github.io/cloudflare-error-pages/error-1000.html        |
-| Interactive Challenge | https://conjoint-ly.github.io/cloudflare-error-pages/waf_challenge.html     |
-| Managed Challenge / I'm Under Attack Mode | https://conjoint-ly.github.io/cloudflare-error-pages/basic_challenge.html   |
-| Country Challenge | https://conjoint-ly.github.io/cloudflare-error-pages/country_challenge.html |
 | JavaScript Challenge | https://conjoint-ly.github.io/cloudflare-error-pages/js-challenge.html      |
+| All other types of challenge | https://conjoint-ly.github.io/cloudflare-error-pages/basic_challenge.html   |
 | 429 errors | https://conjoint-ly.github.io/cloudflare-error-pages/error-429.html         |
 
 
